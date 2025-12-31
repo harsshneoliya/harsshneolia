@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=0AEFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Harsh;Software+Developer+@+Capgemini;Ex+Web+Dev+Intern+@+Swastik+Classes;Learning+Web+Development+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=0AEFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Harssh;Software+Developer+@+Capgemini;Ex+Web+Dev+Intern+@+Swastik+Classes;Learning+Web+Development+Daily" />
 </h1>
 
 ---
